@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492967474231",
+    "project_id": "serverwol-app",
+    "storage_bucket": "serverwol-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492967474231:android:bd47f6d9c50fd5e10c3bb2",
+        "android_client_info": {
+          "package_name": "com.mihaimura.serverwol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492967474231-nmb9tj849p5ckk2d1s18ifgj65qmfb48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7b3WJWNQGQuL8dtmyTrf4B5Q6i76QRnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492967474231-nmb9tj849p5ckk2d1s18ifgj65qmfb48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
