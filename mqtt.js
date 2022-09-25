@@ -5,6 +5,8 @@ const mqttClient = new Paho.Client(process.env.MQTT_SERVER, Number(process.env.M
 mqttClient.connect({
 	mqttVersion: 3,
 	reconnect: true,
+	userName: process.env.MQTT_USERNAME,
+	password: process.env.MQTT_PASSWORD,
 	onSuccess: () => {
 		console.log('Connected!');
 		mqttClient.subscribe('proxmox/state');
