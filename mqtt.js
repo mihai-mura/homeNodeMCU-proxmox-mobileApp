@@ -1,6 +1,6 @@
 import Paho from 'paho-mqtt';
 
-const mqttClient = new Paho.Client(process.env.MQTT_SERVER, Number(process.env.MQTT_PORT), `proxmox-mobileApp`);
+const mqttClient = new Paho.Client(process.env.MQTT_SERVER, Number(process.env.MQTT_PORT), `Proxmox-MobileApp`);
 
 mqttClient.connect({
 	mqttVersion: 3,
