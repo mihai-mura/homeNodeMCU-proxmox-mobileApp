@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "492967474231",
-    "project_id": "serverwol-app",
-    "storage_bucket": "serverwol-app.appspot.com"
+    "project_number": "83092487080",
+    "project_id": "home-d2c4b",
+    "storage_bucket": "home-d2c4b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:492967474231:android:bd47f6d9c50fd5e10c3bb2",
+        "mobilesdk_app_id": "1:83092487080:android:90cadb6966b3ab1cc7bb9d",
         "android_client_info": {
           "package_name": "com.mihaimura.serverwol"
         }
       },
       "oauth_client": [
         {
-          "client_id": "492967474231-nmb9tj849p5ckk2d1s18ifgj65qmfb48.apps.googleusercontent.com",
+          "client_id": "83092487080-108b372kaof8v9sp5vsvl7ahaasf4sp7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB7b3WJWNQGQuL8dtmyTrf4B5Q6i76QRnc"
+          "current_key": "AIzaSyDycnlt_a08KXXMJVoVOrl9Dja_817wGLQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "492967474231-nmb9tj849p5ckk2d1s18ifgj65qmfb48.apps.googleusercontent.com",
+              "client_id": "83092487080-108b372kaof8v9sp5vsvl7ahaasf4sp7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
